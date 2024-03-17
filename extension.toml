@@ -2,7 +2,7 @@ id = "http"
 name = "HTTP"
 description = "HTTP support for Zed"
 version = "0.0.1"
-authors = ["Marshall Bowers <elliott.codes@gmail.com>"]
+authors = ["TerminalFi <Zachary.Schulze@gmail.com>"]
 
 
 [grammars.http]
