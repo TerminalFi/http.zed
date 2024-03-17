@@ -1,0 +1,10 @@
+id = "http"
+name = "HTTP"
+description = "HTTP support for Zed"
+version = "0.0.1"
+authors = ["Marshall Bowers <elliott.codes@gmail.com>"]
+
+
+[grammars.http]
+repository = "https://github.com/rest-nvim/tree-sitter-http"
+commit = "b639716df0698940b53de81e6fcefa2b6cd30724"

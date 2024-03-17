@@ -1,7 +1,0 @@
-{
-  "name": "Http",
-  "version": "0.0.1",
-  "authors": ["Terminal"],
-  "description": "Provides Http syntax highlighting",
-  "repository": "https://github.com/TerminalFi/http.zed"
-}
